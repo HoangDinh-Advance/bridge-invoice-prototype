@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[297,["297","static/chunks/297-0557c4d18bf66541.js","345","static/chunks/app/not-found-dcf2afc2e75d7065.js"],""]
+3:I[6869,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[6869,[],"ViewportBoundary"]
+9:I[6869,[],"MetadataBoundary"]
+b:I[9704,[],""]
+c:I[4782,[],""]
+f:I[4322,["722","static/chunks/722-0a009ceec7666a1d.js","22","static/chunks/22-3617389e13f2e2af.js","655","static/chunks/655-2f94a3fae6fa20f5.js","864","static/chunks/864-f8d86bbce56ea6ec.js","177","static/chunks/app/layout-4c6370b111cce827.js"],"Providers"]
+10:I[5563,["722","static/chunks/722-0a009ceec7666a1d.js","39","static/chunks/app/error-df6a1e1801a3c846.js"],"default"]
+:HL["/bridge-invoice-prototype/_next/static/css/fc108de3eb33fd33.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"8-JSlVKktOMjGC2YxTUCZ","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"mx-auto max-w-lg px-6 py-20 text-center","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"className":"mt-2 text-2xl font-semibold tracking-tight","children":"Không tìm thấy trang"}],["$","p",null,{"className":"mt-3 text-sm text-muted","children":"Đường dẫn không tồn tại hoặc bạn không có quyền xem."}],["$","$L2",null,{"href":"/invoices","className":"btn btn-primary mt-6","children":"Về danh sách hóa đơn"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#12634f"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Bridge Finance · Hóa đơn GDT"}],["$","meta","1",{"name":"description","content":"Cổng khách hàng Bridge Finance × hóa đơn điện tử GDT (bản thử nghiệm)."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bridge-invoice-prototype/_next/static/css/fc108de3eb33fd33.css","precedence":"next"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"children":["$","$Lf",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$10","errorStyles":[],"errorScripts":null,"template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"className":"mx-auto max-w-lg px-6 py-20 text-center","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"className":"mt-2 text-2xl font-semibold tracking-tight","children":"Không tìm thấy trang"}],["$","p",null,{"className":"mt-3 text-sm text-muted","children":"Đường dẫn không tồn tại hoặc bạn không có quyền xem."}],["$","$L2",null,{"href":"/invoices","className":"btn btn-primary mt-6","children":"Về danh sách hóa đơn"}]]}],[]]}]}]}]}]]}],"isPartial":"$@11","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+5:null
+7:300
+13:true
+7:C
+12:0
+a:"$undefined"
+d:"$undefined"
+11:"$undefined"
+6:"$undefined"

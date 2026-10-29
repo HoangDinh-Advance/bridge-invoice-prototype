@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[2852,["722","static/chunks/722-0a009ceec7666a1d.js","297","static/chunks/297-0557c4d18bf66541.js","22","static/chunks/22-3617389e13f2e2af.js","245","static/chunks/245-6b3639c951325bfa.js","536","static/chunks/536-bd5f146bd4661f7d.js","864","static/chunks/864-f8d86bbce56ea6ec.js","520","static/chunks/app/login/page-28fce62b00b3ec24.js"],"Surface"]
+3:I[7632,["722","static/chunks/722-0a009ceec7666a1d.js","297","static/chunks/297-0557c4d18bf66541.js","22","static/chunks/22-3617389e13f2e2af.js","245","static/chunks/245-6b3639c951325bfa.js","536","static/chunks/536-bd5f146bd4661f7d.js","864","static/chunks/864-f8d86bbce56ea6ec.js","520","static/chunks/app/login/page-28fce62b00b3ec24.js"],"Brand"]
+4:"$Sreact.suspense"
+5:I[5910,["722","static/chunks/722-0a009ceec7666a1d.js","297","static/chunks/297-0557c4d18bf66541.js","22","static/chunks/22-3617389e13f2e2af.js","245","static/chunks/245-6b3639c951325bfa.js","536","static/chunks/536-bd5f146bd4661f7d.js","864","static/chunks/864-f8d86bbce56ea6ec.js","520","static/chunks/app/login/page-28fce62b00b3ec24.js"],"GdtLoginPage"]
+6:I[6869,[],"OutletBoundary"]
+a:I[6869,[],"ViewportBoundary"]
+b:I[6869,[],"MetadataBoundary"]
+d:I[9704,[],""]
+e:I[4782,[],""]
+11:I[4322,["722","static/chunks/722-0a009ceec7666a1d.js","22","static/chunks/22-3617389e13f2e2af.js","655","static/chunks/655-2f94a3fae6fa20f5.js","864","static/chunks/864-f8d86bbce56ea6ec.js","177","static/chunks/app/layout-4c6370b111cce827.js"],"Providers"]
+12:I[5563,["722","static/chunks/722-0a009ceec7666a1d.js","39","static/chunks/app/error-df6a1e1801a3c846.js"],"default"]
+13:I[297,["297","static/chunks/297-0557c4d18bf66541.js","345","static/chunks/app/not-found-dcf2afc2e75d7065.js"],""]
+:HL["/bridge-invoice-prototype/_next/static/css/fc108de3eb33fd33.css","style"]
+9:X
+10:X
+10:C
+0:{"buildId":"8-JSlVKktOMjGC2YxTUCZ","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"variant":"gradient"}],["$","header",null,{"className":"flex h-[68px] items-center border-b border-[#dce6d7] bg-white/80 px-6","children":["$","$L3",null,{}]}],["$","$4",null,{"fallback":null,"children":["$","$L5",null,{}]}]],null,["$","$L6",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#12634f"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Đăng nhập · Bridge Finance"}],["$","meta","1",{"name":"description","content":"Cổng khách hàng Bridge Finance × hóa đơn điện tử GDT (bản thử nghiệm)."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}]]}]}]}],null]}],"isPartial":"$@c","staleTime":"$9","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$9","varyParams":"$10"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/bridge-invoice-prototype/_next/static/css/fc108de3eb33fd33.css","precedence":"next"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"children":["$","$L11",null,{"children":["$","$Ld",null,{"parallelRouterKey":"children","error":"$12","errorStyles":[],"errorScripts":null,"template":["$","$Le",null,{}],"notFound":[["$","main",null,{"className":"mx-auto max-w-lg px-6 py-20 text-center","children":[["$","p",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"className":"mt-2 text-2xl font-semibold tracking-tight","children":"Không tìm thấy trang"}],["$","p",null,{"className":"mt-3 text-sm text-muted","children":"Đường dẫn không tồn tại hoặc bạn không có quyền xem."}],["$","$L13",null,{"href":"/invoices","className":"btn btn-primary mt-6","children":"Về danh sách hóa đơn"}]]}],[]]}]}]}]}]]}],"isPartial":"$@14","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+7:null
+9:300
+16:true
+9:C
+15:0
+c:"$undefined"
+f:"$undefined"
+14:"$undefined"
+8:"$undefined"
